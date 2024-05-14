@@ -56,7 +56,19 @@ Special Thanks to Codebasics team. Ur help in my journey of learning these skill
 
 ## Final result 
 
-#### Initial Dashboard
+#### Records
+
+[New Product in 2021.excel.pdf](https://github.com/FeminaMuhammedaliV/Sales-Analytics/files/15302014/New.Product.in.2021.excel.pdf)
+[Market performance VS Target.excel.pdf](https://github.com/FeminaMuhammedaliV/Sales-Analytics/files/15302013/Market.performance.VS.Target.excel.pdf)
+[Gm % by Quarters.Excel.pdf](https://github.com/FeminaMuhammedaliV/Sales-Analytics/files/15302012/Gm.by.Quarters.Excel.pdf)
+[Division level report.pdf](https://github.com/FeminaMuhammedaliV/Sales-Analytics/files/15302011/Division.level.report.pdf)
+[Customer net sales performance.excel.pdf](https://github.com/FeminaMuhammedaliV/Sales-Analytics/files/15302010/Customer.net.sales.performance.excel.pdf)
+[Top 5 Product level.pdf](https://github.com/FeminaMuhammedaliV/Sales-Analytics/files/15302009/Top.5.Product.level.pdf)
+[Sales data.pdf](https://github.com/FeminaMuhammedaliV/Sales-Analytics/files/15302008/Sales.data.pdf)
+[P & L stmnt by FY .pdf](https://github.com/FeminaMuhammedaliV/Sales-Analytics/files/15302007/P.L.stmnt.by.FY.pdf)
+
+
+
 
 <img src="C:\Users\Femin\OneDrive\Pictures\Screenshots\Screenshot 2023-11-21 191735.png" width="550" class="center">
 
