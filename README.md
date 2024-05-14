@@ -19,6 +19,7 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 
 
 ![Sales_Insight_Excel_Record](https://github.com/FeminaMuhammedaliV/Sales-Analytics/assets/58963583/1c63c388-cd91-4b51-9e31-76f4c0dfc384)
+<img src="[https://github.com/FeminaMuhammedaliV/Sales-Analytics/assets/58963583/1c63c388-cd91-4b51-9e31-76f4c0dfc384]" width="550" class="center">
 
 
 ▶ Sales Report :
