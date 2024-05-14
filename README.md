@@ -58,3 +58,9 @@ Special Thanks to Codebasics team. Ur help in my journey of learning these skill
 
 #### Initial Dashboard
 
+<img src="C:\Users\Femin\OneDrive\Pictures\Screenshots\Screenshot 2023-11-21 191735.png" width="550" class="center">
+
+
+
+
+
