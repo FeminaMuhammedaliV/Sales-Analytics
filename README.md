@@ -53,7 +53,7 @@ Role of reports: Align financial planning with strategic goals Instill confidenc
 
 Special Thanks to Codebasics team. Ur help in my journey of learning these skills are irreplaceable.
 
-
+## Link : https://www.linkedin.com/posts/femina-muhammedali-v_salesanalytics-datadrivendecisions-excelmastery-activity-7225347755760660480-VHb8?utm_source=share&utm_medium=member_desktop
 ## Final result 
 
 #### Records
